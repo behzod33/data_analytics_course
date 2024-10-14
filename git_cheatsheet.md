@@ -14,3 +14,4 @@ rmdir - команда для удаления пустых директорий
 git --version -> команда для отображения текущей версии git
 git config --global user.name 'first_name last_name' - команда для указания имены или никнейма пользователя в файле .gitconfig
 git config --global user.email 'example@gmail.com' - команда для указания эмайла пользователя в файле .gitconfig
+rm -rf .git - команда, для 'разгичивания'
